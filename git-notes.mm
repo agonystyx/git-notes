@@ -1,6 +1,6 @@
 <map version="freeplane 1.3.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="GIT" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1452864425809"><hook NAME="MapStyle">
+<node TEXT="GIT" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1452888523187"><hook NAME="MapStyle">
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
@@ -82,7 +82,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <node TEXT="$cd working_dir&#xa;$cd init&#xa;(possibly create .gitignore&#xa;$git add .&#xa;$git commit -m &quot;initial commit&quot;" ID="ID_1681847473" CREATED="1452865469701" MODIFIED="1452865585273"/>
 </node>
@@ -98,7 +97,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_538278829" CREATED="1452864646063" MODIFIED="1452864664634"><richcontent TYPE="NODE">
@@ -113,7 +111,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_591506646" CREATED="1452864665424" MODIFIED="1452864687818"><richcontent TYPE="NODE">
@@ -128,7 +125,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -209,9 +205,6 @@
 <edge COLOR="#00007c"/>
 <font BOLD="true"/>
 <node TEXT="&quot;Changes to be committed&quot;" ID="ID_1407691666" CREATED="1452865648761" MODIFIED="1452865658784"/>
-</node>
-<node TEXT="" POSITION="left" ID="ID_1306300865" CREATED="1452865666234" MODIFIED="1452865666235">
-<edge COLOR="#007c00"/>
 </node>
 <node TEXT="Spaces" POSITION="right" ID="ID_1390907583" CREATED="1452865858585" MODIFIED="1452865861525">
 <edge COLOR="#7c007c"/>
